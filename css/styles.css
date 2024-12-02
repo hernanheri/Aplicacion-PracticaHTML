@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(to right, #8f54fa, #fc9051);
+  }
+  
+#blackbox{
+    background-color: #000000;
+    color: #e8786d;
+    width: 60%;
+    box-sizing: border-box;
+    border-radius: 25px;
+    margin-top: 10%;
+    margin-bottom: 30%;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 45px;
+    font-size: medium;
+}
